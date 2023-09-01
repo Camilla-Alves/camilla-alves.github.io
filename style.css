@@ -136,7 +136,7 @@ img{
   line-height: 1;
   text-transform: uppercase;
   word-break: break-all;
-  max-width: 5ch;
+  max-width: 4ch;
 }
 
 .experiencia .subtitulo{
@@ -276,7 +276,7 @@ img{
 
 .formacao .subtitulo{
   color: #000000;
-  max-width: 4ch;
+  max-width: 3ch;
 }
 
 .formacao-texto{
